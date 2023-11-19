@@ -14,8 +14,8 @@
 <local:MyCard Margin="0,0,0,12" Title="欢迎页" CanSwap="True" IsSwaped="False">
      <StackPanel Margin="24,40,24,15">
           <TextBlock HorizontalAlignment="Center" Margin="0,0,0,12" Foreground="{DynamicResource ColorBrush2}" FontSize="20"
-               Text="欢迎使用Simple Mainpage!" />
-          <local:MyHint Text="主页作者: MFn233" Margin="0,0,0,0" Padding="0,2,0,2" IsWarn="False" />
+               Text="欢迎游玩天空服务器" />
+          <local:MyHint Text="主页作者: FACHOU" Margin="0,0,0,0" Padding="0,2,0,2" IsWarn="False" />
           <Calendar HorizontalAlignment="Center" Margin="0,12,0,10" Grid.Column="0"/>
           <!--因为“你知道吗”在启动游戏的时候会出现，所以我只在这里设置了回声洞-->
           <TextBlock Margin="5,0,5,12" TextWrapping="Wrap" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}" Text="{cave}" />
