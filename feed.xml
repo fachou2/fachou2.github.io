@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>FACHOU BLOG</title>
+    <link href="https://fachou2.github.io/feed.xml" rel="self" />
+    <link href="https://fachou2.github.io" />
+    <updated>2025-01-19T18:21:06+08:00</updated>
+    <author>
+        <name>FACHOU</name>
+    </author>
+    <id>https://fachou2.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>FACHOU</name>
+        </author>
+        <link href="https://fachou2.github.io/test.html"/>
+        <id>https://fachou2.github.io/test.html</id>
+
+        <updated>2025-01-19T18:21:06+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fachou2.github.io/sitemap.xml
