@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FACHOU BLOG",
     "description": "",
-    "home_page_url": "https://fachou2.github.io",
-    "feed_url": "https://fachou2.github.io/feed.json",
+    "home_page_url": "https://tk.154870.xyz",
+    "feed_url": "https://tk.154870.xyz/feed.json",
     "user_comment": "",
     "author": {
         "name": "FACHOU"
     },
     "items": [
         {
-            "id": "https://fachou2.github.io/test.html",
-            "url": "https://fachou2.github.io/test.html",
+            "id": "https://tk.154870.xyz/test.html",
+            "url": "https://tk.154870.xyz/test.html",
             "title": "test",
             "author": {
                 "name": "FACHOU"
