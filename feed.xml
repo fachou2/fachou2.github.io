@@ -3,7 +3,7 @@
     <title>FACHOU BLOG</title>
     <link href="https://tk.154870.xyz/feed.xml" rel="self" />
     <link href="https://tk.154870.xyz" />
-    <updated>2025-01-19T18:21:06+08:00</updated>
+    <updated>2025-01-21T13:21:07+08:00</updated>
     <author>
         <name>FACHOU</name>
     </author>
@@ -18,7 +18,15 @@
         <id>https://tk.154870.xyz/test.html</id>
 
         <updated>2025-01-19T18:21:06+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="baidu.com" target="_blank" rel="noopener noreferrer"></a><a href="baidu.com" target="_blank" rel="noopener noreferrer">123</a></p>
+            ]]>
+        </content>
     </entry>
 </feed>
